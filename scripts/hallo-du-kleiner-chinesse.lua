@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/100-Days-At-Sea-Script-No-key-and-Free-227094"))()
