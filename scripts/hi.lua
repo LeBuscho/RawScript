@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/100-Days-At-Sea-novoaprendiz-241877"))()
